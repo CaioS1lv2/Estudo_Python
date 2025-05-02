@@ -1,2 +1,4 @@
 # Estudo_Python
-Estudo Python 
+## Repositorio focado totalmente em exercicios em python 
+
+
